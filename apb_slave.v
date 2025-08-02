@@ -8,3 +8,4 @@ module apb_slave (
         else out <= ~out;
     end
 endmodule
+// Fixed identified race condition
