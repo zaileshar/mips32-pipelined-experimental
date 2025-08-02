@@ -8,3 +8,4 @@ module interrupt_ctrl (
         else out <= ~out;
     end
 endmodule
+// Memory layout adjusted for performance
