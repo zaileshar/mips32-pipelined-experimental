@@ -6,3 +6,4 @@ public:
         std::cout << "Pipelined_api initialized." << std::endl;
     }
 };
+// Updated logic section 12
