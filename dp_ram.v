@@ -8,3 +8,4 @@ module dp_ram (
         else out <= ~out;
     end
 endmodule
+// Memory layout adjusted for stability
