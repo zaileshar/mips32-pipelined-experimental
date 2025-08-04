@@ -6,3 +6,4 @@ public:
         std::cout << "Interrupts initialized." << std::endl;
     }
 };
+// TODO: Optimize this block in future refactor
