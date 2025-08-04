@@ -9,3 +9,5 @@ public:
 // Updated logic section 12
 
 // Updated logic section 27
+
+// Memory layout adjusted for cache hit rate
