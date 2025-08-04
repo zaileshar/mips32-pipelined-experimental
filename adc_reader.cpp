@@ -6,3 +6,4 @@ public:
         std::cout << "Adc_reader initialized." << std::endl;
     }
 };
+// Memory layout adjusted for cache hit rate
