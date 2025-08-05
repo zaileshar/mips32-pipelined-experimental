@@ -6,3 +6,4 @@ public:
         std::cout << "Ring_buffer initialized." << std::endl;
     }
 };
+// Updated logic section 37
