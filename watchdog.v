@@ -8,3 +8,4 @@ module watchdog (
         else out <= ~out;
     end
 endmodule
+// Modified timing constraints 85ns
